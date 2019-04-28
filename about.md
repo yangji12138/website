@@ -7,7 +7,7 @@ layout: page
 <p>I'm a PhD student interested in Database, Blockchain technologies and verifiable computing. 
 Currently, I'm pursuing my PhD degree in the <a href="https://www.comp.hkbu.edu.hk/v1/">Computer Science Department</a>
 in <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University</a> 
-and supervised by <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof.Xu Jianliang</a>.
+and supervised by <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Xu Jianliang</a>.
 
 <!--
 <h2>Skills</h2>
