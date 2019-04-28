@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.imdb.com/name/nm0424060/
 
 url: https://yangji.me
 # your url: http://USERNAME.github.io
@@ -47,7 +47,7 @@ github: yangji12138
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-reddit: user/Scaryang/
+reddit: Scaryang
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
