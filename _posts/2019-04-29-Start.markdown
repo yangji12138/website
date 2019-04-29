@@ -6,7 +6,7 @@ projects: true
 author: Yang
 category: blog
 projects: false
-externalLink: false
+externalLink: true
 ---
 
 Today, Yang starts his personal website. 
