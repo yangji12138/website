@@ -14,7 +14,7 @@ picture: assets/images/profile.gif
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.imdb.com/name/nm0424060/
+resume-url: /assets/cv.pdf
 
 url: https://yangji.me
 # your url: http://USERNAME.github.io
@@ -42,6 +42,7 @@ twitter: Captain_teemo66
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
+# zhihu: people/ji-yang-32-13/activities
 github: yangji12138
 # gitlab: mygitlab
 # lastfm: mylastfm

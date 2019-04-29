@@ -17,6 +17,12 @@
         </a>
     {% endif %}
 
+    {% if site.zhihu %}
+        <a class="link" data-title="zhihu.com/{{ site.zhihu }}" href="http://zhihu.com/{{ site.zhihu }}" target="_blank">
+            <object class="icon" id="icon-zhihu" data="../assets/images/zhihu.svg" type="image/svg+xml" ><use xlink:href="#icon-zhihu"></use></object>
+        </a>
+    {% endif %}    
+
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
