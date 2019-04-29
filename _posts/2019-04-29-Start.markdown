@@ -2,11 +2,9 @@
 title: Hello, Strangers!
 layout: post
 date: 2019-04-29 23:39
-projects: true
 author: Yang
 category: blog
-projects: false
-externalLink: true
+externalLink: false
 ---
 
 Today, Yang starts his personal website. 
