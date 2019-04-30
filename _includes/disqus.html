@@ -5,6 +5,7 @@
         var disqus_config = function () {
             this.page.url = '{{ site.url }}{{ page.url | replace:"index.html","" }}';
             this.page.identifier = '{{ page.id }}';
+            this.language= "en";
         };
         var disqus_shortname = '{{ site.disqus.shortname }}';
         var disqus_developer = 0;
